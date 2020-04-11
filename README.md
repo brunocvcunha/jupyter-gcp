@@ -3,8 +3,12 @@ Jupyter/SciPy Docker Image with GCP dependencies
 
 # Usage
 
-- Requires Docker daemon running.
+Requires Docker daemon running.
 
+## Includes
+
+- gsutil / gcloud CLI
+- gcsfs / fastparquet / pyarrow / dask
 
 ## Build
 ```
