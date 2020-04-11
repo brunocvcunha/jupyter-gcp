@@ -11,6 +11,7 @@ Requires Docker daemon running.
 ## Image Includes
 
 - gsutil / gcloud CLI
+- numpy / pandas
 - gcsfs / fastparquet / pyarrow / dask
 
 ## Build
