@@ -1,5 +1,6 @@
 # jupyter-gcp
 
+![docker](https://github.com/bvolpato/jupyter-gcp/workflows/Docker%20Publish/badge.svg?branch=master)
 [![MIT License](http://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/brunocvcunha/jupyter-gcp/blob/master/LICENSE)
 
 Jupyter/SciPy Docker Image with GCP dependencies
